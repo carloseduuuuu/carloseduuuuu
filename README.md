@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Carlos+Eduardo!;" />
 </h1>
 
-<p> Apaixonado por tecnologia </p>
-
-<p> Atualmente estou estudando JavaScript </p>
+<p>Programador Web Front end</p>
 
 ![snake gif](https://github.com/carloseduuuuu/carloseduuuuu/blob/output/github-contribution-grid-snake.gif)
 
