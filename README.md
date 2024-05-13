@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Carlos+Eduardo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Carlos+Eduardo!;" />
 </h1>
 
-<p>Programador Web Front end</p>
+<p>Front end web programmer</p>
 
 ![snake gif](https://github.com/carloseduuuuu/carloseduuuuu/blob/output/github-contribution-grid-snake.gif)
 
@@ -15,7 +15,7 @@
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduuuuu&show_icons=true&theme=dracula)
 
 
-## Tecnologias
+## Technologies
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
